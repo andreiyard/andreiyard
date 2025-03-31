@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Andrei Naidenov  
+**Network Engineer | Network Automation | DevOps Enthusiast**  
 
-<!--
-**andreiyard/andreiyard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Interested in Network Automation, Infrastructure as Code & Cloud Technologies**  
 
-Here are some ideas to get you started:
+I focus on **network design, automation, and infrastructure management**, applying modern tools and best practices to make networks more efficient and scalable. I'm particularly interested in **Python-driven automation, infrastructure as code, and cloud networking**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like exploring **DevOps, SRE, and cloud-native technologies** to bridge the gap between networking and software-driven infrastructure. My goal is to build reliable, automated, and maintainable systems.  
+
+---
+
+### 🚀 **Tech Stack & Skills**
+🛠 **Networking:** Routing, Switching, Firewall Security, Cloud Networking  
+🔧 **Automation:** Python, Bash, Ansible, Nornir, Netmiko, Scrapli  
+☁️ **Cloud & DevOps:** Azure, Terraform, CI/CD, Docker, Rest API  
+
+---
+
+### 📫 **Connect with Me**
+💼 **[LinkedIn](www.linkedin.com/in/andrei-naidenov)**  
+📂 **[GitHub](https://github.com/andreiyard)**  
+✉️ **Email:** andrei.naidenov.work@gmail.com  
