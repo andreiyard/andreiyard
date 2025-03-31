@@ -20,3 +20,7 @@ I like exploring **DevOps, SRE, and cloud-native technologies** to bridge the ga
 💼 **[LinkedIn](www.linkedin.com/in/andrei-naidenov)**  
 📂 **[GitHub](https://github.com/andreiyard)**  
 ✉️ **Email:** andrei.naidenov.work@gmail.com  
+
+---
+
+![stats](https://komarev.com/ghpvc/?username=andreiyard)
